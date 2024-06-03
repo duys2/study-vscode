@@ -1,1 +1,1 @@
-# Visual Studio Code로 학습
+# Visual Studio Code를 통한 학습
